@@ -26,7 +26,7 @@ function CreateQr() {
       <div className='bg-white w-10/12 h-96 rounded-md'>
         <div className='flex justify-center'>
           <div>
-            <h1 className='text-lg'>Generate QR Code</h1>
+            <h1 className='text-lg mt-5'>Generate QR Code</h1>
           </div>
         </div>
         <div className='mt-10 flex justify-center'>

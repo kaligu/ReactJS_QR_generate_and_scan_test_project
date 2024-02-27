@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import CreateQr from './components/CreateQr'
+import ReadQr from './components/ReadQr'
 
 function App() {
 
@@ -11,6 +12,8 @@ function App() {
     </div>
 
     <CreateQr/>
+
+    <ReadQr/>
       
     </>
   )
